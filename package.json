@@ -1,0 +1,26 @@
+{
+  "name": "firemod",
+  "version": "1.0.0",
+  "description": "The bot that fits every Discord server",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YourDailyLlama/Firemod.git"
+  },
+  "keywords": [
+    "bot",
+    "Discord"
+  ],
+  "author": "YourDailyLlama",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YourDailyLlama/Firemod/issues"
+  },
+  "homepage": "https://yourdailyllama.github.io/firemod",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
